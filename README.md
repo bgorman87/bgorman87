@@ -3,7 +3,7 @@
 - Current main project is www.laptop-db.com
 - Reach me at bgorman@live.com or learn more about me from www.brandongorman.me
 
-- Currenrtly going through my private repos to publicize them so more will be added soon. 
+- Still learning GitHub so currently going through my private repos to publicize them so more will be added soon. 
 
 <!---
 bgorman87/bgorman87 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
