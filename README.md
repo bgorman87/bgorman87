@@ -1,6 +1,6 @@
 # Brandon Gorman
+- Full-stack developer currently working on PWA development using React
 - Python programmer currently working with PySide6 to create a GUI PDF Processor for personal and commercial use.
-- Also currently working on Web Development with the Django REST Framework, React, as well as WordPress.
 
 - Reach me at bgorman@live.com or learn more about me from www.brandongorman.me 
 
