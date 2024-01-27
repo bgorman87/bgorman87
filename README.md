@@ -1,5 +1,4 @@
 # Brandon Gorman
-- Professional Engineer
-- Full-stack developer on the side currently focusing on creating immersive e-learning experiences. 
+Professional Engineer based in Canada. Self-taught programmer with a focus in React and Python.
 
-- Reach me at brandon@godevservices.com or learn more about me from www.brandongorman.me 
+Reach me at brandon@godevservices.com or learn more about me from www.brandongorman.me 
